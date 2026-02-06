@@ -26,6 +26,8 @@ Funnel Chart: Visualizing salary flow from basic to net pay after deductions.
 
 Gauge Chart: Real-time tracking of employee performance ratings.
 
+![Dashboard Screenshot](https://github.com/Abhishek-Chauhan2628/Automated-Attendance-Tracker/blob/bc5018d02a9b6cc4fe0ae3bcd61fab219c8f35cd/Screenshot%202026-02-06%20212159.png)
+
 ## 🛠️ Tech Stack
 Microsoft Excel: Data Entry, Conditional Formatting, Data Validation.
 
