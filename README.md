@@ -3,7 +3,7 @@
 📊 Automated Attendance Tracker & Dashboard (2025)
 An end-to-end automated solution for tracking employee attendance, calculating payroll deductions, and visualizing performance insights. This project utilizes Excel for data management and Power BI for advanced interactive reporting.
 
-#🚀 Key Features
+## 🚀 Key Features
 📅 Excel: Data Management & Automation
 Dynamic Monthly Sheets: 12 individual month tabs (Jan–Dec) with automated date generation and weekend (Sunday) highlighting.
 
@@ -13,7 +13,7 @@ Automated Payroll Calculation: Calculates Total Paid Days, Per-Day Salary, and S
 
 Power Query Integration: Consolidates 12 monthly reports into a single Yearly Report automatically, eliminating manual copy-pasting.
 
-📉 Power BI: Interactive Dashboard
+## 📉 Power BI: Interactive Dashboard
 Employee Performance Score: A custom-calculated "Performance %" metric using DAX/Power Query.
 
 Interactive Slicers: Filter the entire dashboard by Employee ID or Month to see specific trends.
@@ -26,7 +26,7 @@ Funnel Chart: Visualizing salary flow from basic to net pay after deductions.
 
 Gauge Chart: Real-time tracking of employee performance ratings.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Microsoft Excel: Data Entry, Conditional Formatting, Data Validation.
 
 Power Query: Data Transformation and Table Merging.
@@ -35,14 +35,14 @@ Power BI Desktop: Data Modeling and Visualization.
 
 FlatIcon: Custom UI icons for professional aesthetics.
 
-📂 Project Structure
+## 📂 Project Structure
 Attendance_Tracker_Source.xlsx: The main data entry file with monthly tabs.
 
 Yearly_Consolidated_Report.xlsx: The Power Query output file.
 
 Attendance_Analytics_Dashboard.pbix: The Power BI project file.
 
-🔄 How it Works
+## 🔄 How it Works
 Input: Enter daily attendance (P/A/L) in the Excel monthly sheets.
 
 Transform: Open the Yearly Report and click Data > Refresh All to pull in the latest changes via Power Query.
