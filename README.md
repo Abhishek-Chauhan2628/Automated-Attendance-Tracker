@@ -35,8 +35,6 @@ Power Query: Data Transformation and Table Merging.
 
 Power BI Desktop: Data Modeling and Visualization.
 
-FlatIcon: Custom UI icons for professional aesthetics.
-
 ## 📂 Project Structure
 Attendance_Tracker_Source.xlsx: The main data entry file with monthly tabs.
 
